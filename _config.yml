@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: 굉장한 블로그
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,12 +9,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: 유승민 # add your name
+author-img: 유승민.jpg # add your photo
+about-author: 강원대학교 소프트웨어 미디어 융합전공 재학중입니다. programming,AR,VR,DeepLearning 그 중에서도 NLP에 관심이 있습니다! # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: slime-deep # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
